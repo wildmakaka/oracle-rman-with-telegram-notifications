@@ -1,0 +1,5 @@
+# rman.maint.rmn
+allocate channel for maintenance type disk;
+crosscheck backup;
+crosscheck archivelog all;
+delete force noprompt obsolete;

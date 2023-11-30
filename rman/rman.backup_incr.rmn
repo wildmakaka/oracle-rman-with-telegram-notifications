@@ -1,0 +1,6 @@
+# rman.backup_incr.rmn
+run { 
+   backup 
+   incremental level 1
+   database plus archivelog delete all input;
+}

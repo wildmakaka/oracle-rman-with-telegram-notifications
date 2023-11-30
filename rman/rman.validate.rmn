@@ -1,0 +1,4 @@
+# rman.validate.rmn
+run {
+  restore database validate;
+}
