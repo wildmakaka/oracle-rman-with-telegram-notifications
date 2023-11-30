@@ -20,3 +20,14 @@ https://t.me/oracle_dba_ru/50273
 
 https://t.me/oracle_dba_ru/50278
 
+
+
+<br/>
+
+---
+
+<br/>
+
+**Marley**
+
+<a href="https://oracle-dba.ru/chat/">Telegram Chat на русском об Oracle</a>  
